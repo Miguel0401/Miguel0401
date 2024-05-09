@@ -12,5 +12,6 @@ I am a passionate mechanical engineer with a strong interest in computational fl
 ## How to Reach Me
 - Email: miguelrosas0401@gmail.com
 - LinkedIn: https://www.linkedin.com/in/miguel-rosas-villalobos/
+- Personal web site: https://www.miguelrosasvillalobos.com
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project related to CFD or OpenFOAM.
